@@ -9,7 +9,7 @@ export default function Index() {
         
         <>
             <Layout pageTitle="Welcome to My Trips - Your Travel LogBook"/>
-            <p style={"backgroundColor: white"}>Esse projeto está sendo desenvolvido para o curso de Pós-Graduação da INFNET.</p>
+            <p>Esse projeto está sendo desenvolvido para o curso de Pós-Graduação da INFNET.</p>
         </>
         
         
