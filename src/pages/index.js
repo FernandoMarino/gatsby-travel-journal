@@ -1,13 +1,11 @@
-import * as React from "react";
+import React from "react";
 
-const IndexPage = () => {
-	return (
-		<main>
-			<h1>Travel Journal</h1>
-		</main>
-	);
+export default function Index() {
+    return (
+        <main>
+            <h1>Travel Log Book</h1>
+        </main>
+    )
 };
 
-export default IndexPage;
 
-export const Head = () => <title>Travel Journal</title>;
