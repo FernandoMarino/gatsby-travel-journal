@@ -1,6 +1,6 @@
 .container {
     margin: auto;
-    width: 700px;
+    width: 1000px;
     justify-items: center;
     font-family: 'Segoe UI', sans-serif;
     background-color: rgb(31, 137, 224);
@@ -8,7 +8,7 @@
 }
 
 .heading {
-    color: rgb(225, 240, 89);
+    color: rgb(238, 220, 57);
 }
 
 .nav-links {
@@ -22,10 +22,17 @@
 }
 
 .nav-link-text {
-    color: rgb(225, 240, 89);
+    color: rgb(238, 220, 57);
     font-size: 24px;
     font-weight: bold;
     font-family: 'Segoe UI', sans-serif;
     text-decoration: none;
+}
+
+.main {
+    margin: auto;
+    width: 1000px;
+    justify-items: center;
+    font-family: 'Segoe UI', sans-serif;
 }
 

@@ -8,7 +8,7 @@ const Sobre = () => {
     return (
         <>
             <Layout pageTitle="Sobre o Site" />
-            <p>My Trips é o lugar perfeito para registrar todos os momentos de sua viagem. Crie álbuns, escreva histórias (logs) e registre fotos.</p>
+            
         </>
     )
 }
