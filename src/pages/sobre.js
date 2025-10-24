@@ -2,12 +2,14 @@
 import React from "react";
 import Layout from "../components/layout"
 
+
 // Step 2: Define your component
 const Sobre = () => {
     return (
-        <Layout pageTitle="Sobre o Site">
+        <>
+            <Layout pageTitle="Sobre o Site" />
             <p>My Trips é o lugar perfeito para registrar todos os momentos de sua viagem. Crie álbuns, escreva histórias (logs) e registre fotos.</p>
-        </Layout>
+        </>
     )
 }
 
