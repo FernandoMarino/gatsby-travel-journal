@@ -1,0 +1,43 @@
+
+nav{
+    display: inline-block;
+    border: 3px solid blue;
+    width: 45%;
+    height: 6vh;
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    margin-top: 1vh;
+    align-content: center;
+    float: right;
+    
+    
+}
+
+nav .links{
+    display: grid;
+}
+
+nav a{
+    display: inline-block;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 22px; 
+    padding-bottom: 4px; 
+    border-bottom: 3px solid transparent;  
+    
+}
+
+.signin {
+        color: rgb(199, 238, 243);
+}
+
+.signup {
+        color: rgb(238, 78, 78);
+}
+
+nav a:hover{
+    border-color: rgb(69, 197, 197);
+    
+}
+

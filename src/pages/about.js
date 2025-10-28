@@ -1,6 +1,6 @@
 // Step 1: Import React
 import React from "react";
-import Layout from "../components/layout"
+import Layout from "../styles/global.css"
 
 
 // Step 2: Define your component
